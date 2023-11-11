@@ -60,6 +60,7 @@ Clone the repository and run the console.py
 
 ```bash
 $ git clone https://github.com/------/AirBnB_clone.git
+```
 
 ## Usage 🔧
 
