@@ -33,5 +33,5 @@ class HBNBCommand(cmd.Cmd):
         """Print help message for help command."""
         print("Help command to get information about available commands")
 
-    if __name__ == '__main__':
-        HBNBCommand().cmdloop()
+if __name__ == '__main__':
+    HBNBCommand().cmdloop()
